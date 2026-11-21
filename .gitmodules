@@ -1,0 +1,3 @@
+[submodule "tModLoader"]
+	path = tModLoader
+	url = https://github.com/Alexey-Proger/tModLoader-arm.git
