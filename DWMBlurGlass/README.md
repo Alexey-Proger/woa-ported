@@ -1,9 +1,6 @@
 # DWMBlurGlass-ARM64
 Add custom effects to the global system title bar, supports Windows 10 and Windows 11 ARM64.
 
-给全局系统标题栏添加自定义效果，支持win10和win11
-#
-
 This project uses [LGNU V3 license](/COPYING.LESSER).
 
 [![license](https://img.shields.io/github/license/Maplespe/DWMBlurGlass.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
