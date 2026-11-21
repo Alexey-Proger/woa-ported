@@ -6,18 +6,6 @@ Add custom effects to the global system title bar, supports Windows 10 and Windo
 
 This project uses [LGNU V3 license](/COPYING.LESSER).
 
-## !!! Do not download DWMBlurGlass from anywhere else!!!!
-> [!WARNING]
-> We have discovered that someone is pretending to be us and posting DWMBlurGlass with a malicious code implant.
-> 
-> To avoid this kind of matter from happening again, please do not download the software from unofficial addresses!
-> 
-> **We also don't have any official Discord.**
-> 
-> We only distribute software on [Github](https://github.com/Maplespe/DWMBlurGlass/releases), [Bilibili](https://space.bilibili.com/87195798) and [winmoes](https://winmoes.com).
-> 
-> As well, any new versions for testing are pushed to the test branch first, rather than releasing binaries in advance.
-
 [![license](https://img.shields.io/github/license/Maplespe/DWMBlurGlass.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 <img src="https://img.shields.io/badge/language-c++-F34B7D.svg"/>
 <img src="https://img.shields.io/github/last-commit/Maplespe/DWMBlurGlass.svg"/>  
